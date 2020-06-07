@@ -10,9 +10,9 @@
 This repo will classification between rock, paper and scissors using Tensorflow library and Convolutional Neural Network method.
 
 # Requirements
-Python 3
-Tensorflow > 0.12
-Matplotlib
+- Python 3
+- Tensorflow > 0.12
+- Matplotlib
 
 This project using dataset [Rock-Paper-Scissors Images](https://www.kaggle.com/drgfreeman/rockpaperscissors "Rock-Paper-Scissors Images")
 
