@@ -1,10 +1,10 @@
 # Python_Convolutional_Neural_Network_rockpaperscissors
 [![GitHub forks](https://img.shields.io/github/forks/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors/network) 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors.svg?style=social&label=Star&maxAge=2592000)](https://github.com/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors/stargazers/)
 
 
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors/blob/master/LICENSE.md)
+[![GitHub license](https://img.shields.io/github/license/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors.svg)](https://github.com/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors/blob/master/LICENSE.md)
 
 
 This repo will classification between rock, paper and scissors using Tensorflow library and Convolutional Neural Network method.
