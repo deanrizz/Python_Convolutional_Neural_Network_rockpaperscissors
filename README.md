@@ -1,5 +1,5 @@
 # Python_Convolutional_Neural_Network_rockpaperscissors
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors/network) 
+[![GitHub forks](https://img.shields.io/github/forks/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors/network) 
 [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/DRH77/Python_Convolutional_Neural_Network_rockpaperscissors/stargazers/)
 
 
